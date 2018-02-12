@@ -13,3 +13,10 @@
 |8|(1,3,2)|Not a triangle| - |
 
 
+## Running the tests
+
+1. open in a Java ide that supports running applications with config
+
+2. add 3 args in the run config 
+
+3. press run and get the result
